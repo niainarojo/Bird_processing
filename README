@@ -1,0 +1,23 @@
+RASOAFARIHY Rojoniaina
+M1 MISA
+
+
+				Flappy Bird
+Description
+Ce projet est une version personnalisée du célèbre jeu "Flappy Bird" avec une fonctionnalité supplémentaire : la collecte d'étoiles. Dans ce jeu, le joueur contrôle un oiseau en appuyant sur la souris ou la touche d'espace pour le faire voler et éviter les obstacles représentés par des piliers. L'objectif est de voler le plus loin possible tout en évitant les piliers. Une nouveauté de cette version est la présence d'étoiles qui peuvent être collectées pour augmenter le score et prolonger la durée de jeu.
+
+Fonctionnalités
+Contrôlez l'oiseau en cliquant avec la souris ou en appuyant sur la touche d'espace pour voler.
+Évitez les piliers en volant à travers les ouvertures.
+Collectez des étoiles pour augmenter votre score et prolonger votre partie.
+Le jeu se termine lorsque l'oiseau heurte un pilier ou touche le sol(sans étoile collecté).
+Pausez  en cliquant  le touche LEFT
+
+
+Instructions
+Clonez ce dépôt sur votre machine.
+Ouvrez le projet dans votre environnement de développement Java ( Processing).
+Exécutez le jeu en appuyant sur le bouton "Run" ou en appuyant sur Ctrl + R.
+Pour contrôler l'oiseau, cliquez avec la souris ou appuyez sur la touche d'espace pour voler.
+Collectez autant d'étoiles que possible tout en évitant les piliers pour obtenir un score élevé.
+
